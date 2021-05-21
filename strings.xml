@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hitman">Hitman</string>
+    <string name="hitmandesc">Su misma existencia parece ser un pecado pero él está librando una guerra para liberar al
+        mundo del mal.Es brillante, carismático y encantador - aunque revela muy poco acerca de sí mismo: carece de nombre
+        y sólo se le conoce por las dos cifras de un código de barras tatuado en la parte posterior de su cabeza. </string>
+    <string name="hitmandescripcion">Hitman (Timothy Olyphant) Hitman: Agente 47 sigue a un asesino de élite que fue manipulado
+        genéticamente desde su nacimiento hasta llegar a ser una perfecta máquina de matar. Sólo es conocido por los dos últimos
+        dígitos del código de barras que lleva tatuado en la parte posterior de su cuello y es la culminación de décadas de
+        investigación.Su último objetivo es una importante corporación que planea sacar a la luz el pasado del Agente 47 para crear
+        un ejército formado por asesinos cuyos poderes superan a los suyos propios.</string>
+
+    <string name="vengador">El Vengador</string>
+    <string name="vengadordesc">Cuando un robo en una casa tiene consecuencias mortales, el único superviviente no se detendrá ante
+        nada para vengar a los es queridos que ha perdido en Un ciudadano ejemplar, un impactante análisis de la ineficacia de la
+        justicia, del director de The Italian Job.Clyde Shelton es un honesto hombre de familia cuya esposa e hija son brutalmente
+        asesinadas en su propia casa. Cuando los asesinos son detenidos,el caso le es asignado a Nick Rice, un prestigioso fiscal
+        de Filadelfia. Nick propone a uno de los sospechosos la posibilidad de conseguir una sentencia leve a cambio de que
+        testifique en contra de su cómplice. Diez años después, el hombre que consiguió evitar la acusación de asesinato es
+        encontradomuerto y Clyde Shelton admite fríamente su culpa. </string>
+    <string name="vengadordescripcion">El vengador Clyde Shelton lo ha perdido todo. Hace diez años que su mujer y su hija fueron
+        asesinadas, y el culpable está en libertad. Lo que Clyde desconoce es, que entre el fiscal y el abogado del asesino, existe
+        un pacto. Un acuerdo que ha puesto en la calle al mismo que acabó con lo que Clyde más quería. Cuando se entera de lo que
+        está pasando, el protagonista decide tomarse la justicia por su mano.</string>
+
+    <string name="castigador">El Castigador</string>
+    <string name="castigadordesc">Frank Castle decide asentarse con su esposa e hijos después de una vida dedicada a la Marina y
+        el FBI. Lamentablemente uno de losúltimos criminales con los cuales trató Frank antes de retirarse lo introduce en su lista
+        y lo amenaza con matar a su familia. Frank sobrevive pero su familia muere, lo que lo lleva a crear un personaje
+        llamado The Punisher, un anti-héroe.</string>
+    <string name="castigadordescripcion"> The Punisher (en español El Castigador) es una película de 2004 basada en el personaje
+        de Marvel Comics del mismo nombre,protagonizada por Thomas Jane como Frank Castle y John Travolta como Howard Saint,
+        el lavador de dinero que ordena el asesinato de toda la familia de Castle.Esta película es un reboot de la película de 1989
+        protagonizada por Dolph Lundgren.</string>
+
+
+
+</resources>
